@@ -4,7 +4,7 @@ import os
 import random
 import sys
 import traceback
-from asyncio import WindowsSelectorEventLoopPolicy
+
 
 from art import text2art
 from imap_tools import MailboxLoginError
